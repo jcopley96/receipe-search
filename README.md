@@ -1,3 +1,8 @@
+Used EDAMAM API to create a recipe builder. You can view the original version of this web application here: https://recipe-builder-jc.netlify.app/
+A User can type in an ingredient they want to cook with. API will return 10 different dishes than consist of this ingredient.
+
+Next steps of this project are going to be creating additional filters on the side of the web app to filter by meal and/or cuisine. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
