@@ -1,0 +1,38 @@
+.recipe {
+  border-radius: 10px;
+  box-shadow: 0px 5px 20px black;
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  background-image: white;
+  background-color: white;
+  align-items: center;
+  width: 40%;
+}
+.image {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+}
+
+.calories {
+	text-align: center;
+	color: blue;
+	text-decoration-style: bold;
+}
+
+.dishInfo {
+	background-color: #f8f8f8;
+	text-align: center;
+	font-style: bold;
+	margin: 10px auto;
+	padding: 10px 50px;
+	border-radius: 10px;
+}
+
+.title {
+	text-align: center;
+	color: black;
+	text-decoration: underline;
+}
